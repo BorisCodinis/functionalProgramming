@@ -1,6 +1,6 @@
 ﻿// ================================
 // My first F# program
-// ================================
+// =================================
 
 // It's traditional for tutorials to start with "hello world", so here it is in F#
 
